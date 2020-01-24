@@ -15,18 +15,29 @@ _Make a page that has a form to take a number._
 
 ## Behavior Driven Developmeant
 
-* The.
-  * Input: 
-  * Output: 
-* The program .
-  * Input: 
-  * Output: 
-* program .
-  * input: 
-  * output: 
-* program 
-  * input: 
-  * Output: 
+* The program returns a range of numbers from 0 to the users inputted number
+  * Input: "4"
+  * Output: "0, 1, 2, 3, 4"
+* Numbers that contain a 1: all digits are replaced (all digits) with "Beep!
+  * Input: 1
+  * Output: "Beep"
+* Numbers that contain a 2: all digits are replaced (all digits) with "Boop!"
+  * Input: 2
+  * Output: "Boop"
+* Numbers that contain a 3: all digits are replaced (all digits) with "I'm sorry, Dave. I'm afraid I can't do that.
+  * input: 3
+  * output: "i'm sorry, Dave. I'm afraid i can't do do that"  
+* The number 13 should be replaced with "I'm sorry, Dave. I'm afraid I can't do that."
+  * input: 13
+  * Output: "I'm sorry, Dave. I'm afraid i can't do that."
+
+* Numbers that contain a 2: all digits are replaced (all digits) with "Boop!"
+  * Input: 21
+  * Output: "Boop"
+  
+* Numbers that contain a 3: all digits are replaced (all digits) with "I'm sorry, Dave. I'm afraid I can't do that.
+  * input: 32
+  * output: "i'm sorry, Dave. I'm afraid i can't do do that"  
 
 
 ## Known Bugs
